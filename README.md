@@ -17,11 +17,19 @@ Color Palette: [NTU SINGAPORE QUICK BRAND GUIDE](https://www3.ntu.edu.sg/CorpCom
 </a>
 </p>
 
-# Usage and FAQ
+## Usage 
+comment out one of these two lines in `beamercolorthementu.sty`.
+```latex
+% red
+\definecolor{ntu}{RGB}{215, 20, 64}
+% blue
+\definecolor{ntu}{RGB}{24, 28, 98}
+```
+## FAQ
 Refer to [gemini](https://github.com/anishathalye/gemini).
 
-# Acknowledgements
+## Acknowledgements
 Credits are given to [gemini](https://github.com/anishathalye/gemini).
 
-# License
+## License
 Released under the MIT License.
