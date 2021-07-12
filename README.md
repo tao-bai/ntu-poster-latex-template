@@ -18,7 +18,7 @@ Color Palette: [NTU SINGAPORE QUICK BRAND GUIDE](https://www3.ntu.edu.sg/CorpCom
 </p>
 
 ## Usage 
-comment out one of these two lines in `beamercolorthementu.sty`.
+comment out one of these two lines in `beamercolorthementu.sty` for different themes.
 ```latex
 % red
 \definecolor{ntu}{RGB}{215, 20, 64}
