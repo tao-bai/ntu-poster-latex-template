@@ -1,5 +1,7 @@
 # ntu-poster-latex-template
-Nanyang Technological University poster latex template(unofficial). 
+Nanyang Technological University(NTU) academic poster latex template(unofficial). 
+
+Please :star: if you find it useful. 
 
 ## Themes
 Color Palette: [NTU SINGAPORE QUICK BRAND GUIDE](https://www3.ntu.edu.sg/CorpComms2/NTU%20Quick%20Brand%20Guide%202018.pdf)
@@ -18,7 +20,7 @@ Color Palette: [NTU SINGAPORE QUICK BRAND GUIDE](https://www3.ntu.edu.sg/CorpCom
 </p>
 
 ## Usage 
-comment out one of these two lines in `beamercolorthementu.sty` for different themes.
+Comment out one of these two lines in `beamercolorthementu.sty` for different themes.
 ```latex
 % red
 \definecolor{ntu}{RGB}{215, 20, 64}
